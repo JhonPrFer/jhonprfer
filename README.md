@@ -1,6 +1,7 @@
 ## Hi 👋 I'm João Pedro Fernandes
 
 - I'm a Computer Science student at UFBA
+- Junior Front-end Developer 
 - Currenty working and learning [ReactJs](https://reactjs.org/) and [Next](https://nextjs.org/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-pedro-fernandes-9a48a9215/)
 - 😄 Pronouns: He/Him
