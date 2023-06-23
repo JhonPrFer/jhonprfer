@@ -8,7 +8,6 @@
 - 😄 Pronouns: He/Him
 ---
 <div>
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=jhonprfer&show_icons=true&theme=merko">
   <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonprfer&show_icons=true&theme=merko&layout=compact">  
 </div>
 
